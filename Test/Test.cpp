@@ -7,6 +7,8 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("I am master");
+
+	printf("master change");
 	return 0;
 }
 
