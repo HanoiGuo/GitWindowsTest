@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("I am master");
+	printf("I am branch one");  
 	return 0;
 }
 
