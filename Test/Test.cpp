@@ -6,6 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	print("This is changed by Tony")
 	printf("I am master");
 	return 0;
 }
