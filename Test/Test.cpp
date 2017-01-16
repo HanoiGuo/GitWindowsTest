@@ -6,6 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	printf("local change");
 	printf("I am branch one");  
 	return 0;
 }
